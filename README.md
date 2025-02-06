@@ -1,6 +1,5 @@
 # Hi there, I'm Anushka Joshii! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Anushka+Joshii's+GitHub+Profile)
 
 ## 🚀 About Me
 
