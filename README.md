@@ -7,7 +7,7 @@ I'm a passionate developer with a keen interest in **web development**, **machin
 - 🌱 I’m currently learning **machine learning** and **data science**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 💬 Ask me about **web development**, **machine learning**, or **anything tech-related**.
-- 📫 How to reach me: [anushka.joshii@example.com](mailto:anushkajoshi020503@gmail.com)
+- 📫 How to reach me: [anushkajoshi020503@gmail.com](mailto:anushkajoshi020503@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love travelling and photography.
 
